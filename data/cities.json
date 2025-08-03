@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "id": "0424",
+      "cityName": "Riyaḑ al Khabra’",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2025-07-01T08:36:05.457Z",
+      "notes": "adsf",
+      "position": {
+        "lat": "26.1255266347636",
+        "lng": "43.02031345548503"
+      }
+    },
+    {
+      "id": "3909",
+      "cityName": "Abyei",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2025-07-01T08:36:19.569Z",
+      "notes": "asdf",
+      "position": {
+        "lat": "9.46096187391141",
+        "lng": "28.10097060829482"
+      }
+    },
+    {
+      "id": "6a74",
+      "cityName": "Surgut",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-07-01T08:36:22.298Z",
+      "notes": "",
+      "position": {
+        "lat": "62.433213736960184",
+        "lng": "73.2515113254804"
+      }
+    },
+    {
+      "id": "2fdc",
+      "cityName": "Bagdarin",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-07-01T08:36:24.530Z",
+      "notes": "",
+      "position": {
+        "lat": "53.96086028421594",
+        "lng": "113.85786261159284"
+      }
+    },
+    {
+      "id": "562e",
+      "cityName": "Haixi",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-07-01T08:36:28.106Z",
+      "notes": "",
+      "position": {
+        "lat": "36.762166370974164",
+        "lng": "98.50084732450742"
+      }
+    },
+    {
+      "id": "1168",
+      "cityName": "Siguenza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-01T08:39:31.970Z",
+      "notes": "",
+      "position": {
+        "lat": "41.013878570698054",
+        "lng": "-2.663371898826694"
+      }
+    },
+    {
+      "id": "cee0",
+      "cityName": "Hassi Delaa",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-07-01T16:17:29.519Z",
+      "notes": "",
+      "position": {
+        "lat": "33.26755370005468",
+        "lng": "4.236816899599898"
+      }
+    },
+    {
+      "id": "0f81",
+      "cityName": "Debdeb",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-07-01T16:17:32.440Z",
+      "notes": "",
+      "position": {
+        "lat": "30.070571844080618",
+        "lng": "8.608615462337973"
+      }
+    },
+    {
+      "id": "fbfd",
+      "cityName": "Cervinara",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-07-01T16:17:34.879Z",
+      "notes": "",
+      "position": {
+        "lat": "41.01368050978779",
+        "lng": "14.653219547150695"
+      }
+    },
+    {
+      "id": "03ad",
+      "cityName": "Sambir",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2025-07-01T16:17:37.441Z",
+      "notes": "",
+      "position": {
+        "lat": "48.99542822682354",
+        "lng": "23.068634357876114"
+      }
+    },
+    {
+      "id": "12ef",
+      "cityName": "Malorita",
+      "country": "Belarus",
+      "emoji": "🇧🇾",
+      "date": "2025-07-01T16:17:38.777Z",
+      "notes": "",
+      "position": {
+        "lat": "51.754647248413626",
+        "lng": "24.035152573468086"
+      }
+    }
+  ]
+}
