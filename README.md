@@ -13,7 +13,9 @@ WorldWise is a React application for tracking cities and countries you have visi
 
 <img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/bf4ff0af-3a2f-4192-a885-a24c3aae5895" />
 
-![Uploading image.png…]()
+
+<img width="1905" height="894" alt="image" src="https://github.com/user-attachments/assets/9fa64c5d-6870-4726-8327-99707b1bdcdb" />
+
 
 
 
