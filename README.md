@@ -2,6 +2,21 @@
 
 WorldWise is a React application for tracking cities and countries you have visited. It features authentication, protected routes, dynamic data management, and a modern UI. This project demonstrates advanced React patterns including context providers, code splitting, and custom hooks.
 
+
+<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/4faa1771-21aa-47df-9932-e107a656ce1e" />
+
+<img width="1916" height="896" alt="image" src="https://github.com/user-attachments/assets/2484f55b-e79e-414d-8594-93df8666806a" />
+
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/097502a5-9b0f-4e62-8955-ef93eae1547f" />
+
+<img width="1913" height="904" alt="image" src="https://github.com/user-attachments/assets/836c9177-4c4b-4026-bafe-19ac007f38ab" />
+
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/bf4ff0af-3a2f-4192-a885-a24c3aae5895" />
+
+![Uploading image.png…]()
+
+
+
 ---
 
 ## Features
